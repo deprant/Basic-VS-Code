@@ -1,0 +1,12 @@
+def Tampil():
+    print("ini ada fungsi pertama saya...!")
+    print("lanjutkan....")
+    
+# memanggil nama fungsi
+Tampil()
+
+def show():
+    print("pertandingan sepak bola")
+    print("Madrid vs Barca")
+    
+show()
